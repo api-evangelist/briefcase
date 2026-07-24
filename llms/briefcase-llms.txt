@@ -1,0 +1,58 @@
+# Briefcase
+
+> AI-native accounting automation. From invoice capture to financial close.
+
+Briefcase automates bookkeeping workflows for UK accounting firms and businesses using AI agents. Upload invoices, receipts, and bank statements — Briefcase extracts data, categorises transactions, handles VAT, and publishes to Xero or QuickBooks.
+
+## Key Pages
+
+- [Home](https://briefcase.so/)
+- [Pricing](https://briefcase.so/pricing)
+- [Customers](https://briefcase.so/customers)
+- [Blog](https://briefcase.so/blog)
+- [Changelog](https://briefcase.so/changelog)
+- [Careers](https://briefcase.so/careers)
+- [Referrals](https://briefcase.so/referrals)
+
+## Blog Posts
+
+- [Introducing AI Autopilot](https://briefcase.so/blog/introducing-ai-autopilot)
+- [Beyond OCR: How AI Is Transforming Bookkeeping](https://briefcase.so/blog/beyond-ocr-how-ai-is-transforming-bookkeeping)
+- [Introducing 'Contextual Learning' in the world of AI Accounting](https://briefcase.so/blog/introducing-contextual-learning-in-the-world-of-ai-accounting)
+- [How can you trust an AI to do your accounting?](https://briefcase.so/blog/how-can-you-trust-an-ai-to-do-your-accounting)
+- [What is an 'AI Agent' and what does it mean for accountants?](https://briefcase.so/blog/what-is-an-ai-agent-and-what-does-it-mean-for-accountants)
+- [How will multimodal AI transform the accounting industry?](https://briefcase.so/blog/how-will-multimodal-ai-transform-the-accounting-industry)
+- [Building Tax-Aware AI](https://briefcase.so/blog/building-tax-aware-ai)
+- [Why build what you can buy?](https://briefcase.so/blog/why-build-what-you-can-buy)
+- [Building autopilot](https://briefcase.so/blog/building-autopilot)
+- [Everyone codes](https://briefcase.so/blog/everyone-codes)
+- [Building a Vertical AI Agent](https://briefcase.so/blog/building-a-vertical-ai-agent)
+- [How to Automate Invoice Processing for Accounting Firms in 2026](https://briefcase.so/blog/automate-invoice-processing-accounting-firms)
+- [Best AI Bookkeeping Software for UK Accountants in 2026](https://briefcase.so/blog/best-ai-bookkeeping-software-uk-accountants)
+- [Dext Alternative: Why UK Accounting Firms Are Switching to AI Agents](https://briefcase.so/blog/dext-alternative-uk-accounting-firms)
+- [MTD for ITSA 2026: A Practical Guide to Software and Compliance for Accountants](https://briefcase.so/blog/mtd-for-itsa-2026-accounting-software-guide)
+- [AI Bookkeeping vs OCR: A Practical Comparison for Accounting Firms](https://briefcase.so/blog/ai-bookkeeping-vs-ocr-accounting-firms)
+- [AI Agents for Accounting: How They Work and Why They Matter in 2026](https://briefcase.so/blog/ai-agents-accounting-how-they-work)
+- [Month-End Close Automation: A Practical Guide for UK Accounting Firms](https://briefcase.so/blog/month-end-close-automation-accounting-firms)
+- [AI Working Papers Software: A Practical Guide for UK Accountants](https://briefcase.so/blog/ai-working-papers-software-uk-accountants)
+- [Bookkeeping Automation Software: What UK Accounting Firms Need in 2026](https://briefcase.so/blog/bookkeeping-automation-software-uk-accounting-firms)
+- [MTD for ITSA Penalties Explained: Points, Fines, and What Late Submission Actually Costs](https://briefcase.so/blog/mtd-itsa-penalties-late-submission-guide)
+- [MTD for ITSA Software Compared: What Sole Traders and Landlords Actually Need in 2026](https://briefcase.so/blog/mtd-itsa-software-compared-sole-traders-landlords)
+- [Briefcase vs Silverfin: AI Working Papers Software Compared (2026)](https://briefcase.so/blog/briefcase-vs-silverfin-ai-working-papers)
+- [First MTD for ITSA Quarterly Submission: A Practical Guide for Sole Traders and Landlords](https://briefcase.so/blog/first-mtd-itsa-quarterly-submission-guide)
+
+## Glossary
+
+- [Glossary index](https://briefcase.so/glossary)
+- [What is AI bookkeeping?](https://briefcase.so/glossary/ai-bookkeeping)
+- [What is MTD for ITSA?](https://briefcase.so/glossary/mtd-for-itsa)
+- [What is an AI accounting agent?](https://briefcase.so/glossary/ai-accounting-agent)
+
+## Case Studies
+
+- [Wilson Partners](https://briefcase.so/customers/wilson-partners)
+- [Connolly](https://briefcase.so/customers/connolly)
+
+## Full Content
+
+For detailed content, see [llms-full.txt](https://briefcase.so/llms-full.txt)

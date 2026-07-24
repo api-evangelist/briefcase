@@ -1,7 +1,20 @@
 aid: briefcase
 name: Briefcase
-description: Briefcase is a company surfaced as a portfolio company of earlybird and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Briefcase is an AI-native accounting and bookkeeping automation platform for
+  UK accounting firms and businesses. Founded in 2024 in London by Reuben
+  Steenkamp and Ján Stehlík, and backed by Earlybird Venture Capital,
+  Entrepreneur First and Tiny, Briefcase describes itself as building the
+  world's first AI autopilot for accounting firms. The product uses multimodal
+  AI and agentic workflows to automate the most tedious parts of accounting:
+  extracting data from invoices, receipts and bank statements, categorising
+  transactions against a firm's chart of accounts, handling VAT (with embedded
+  HMRC legislation for standard, reverse-charge and zero-rated VAT), automating
+  prepayments and expense claims, and driving month-end and financial close. It
+  publishes results into Xero and QuickBooks. Briefcase is delivered as a
+  cloud SaaS application (app.briefcase.so); it is a consumer of accounting
+  APIs rather than a public API producer, and at the time of this profile it
+  publishes no developer/API documentation, OpenAPI, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/briefcase/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +22,61 @@ x-backed-by:
 - earlybird
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://briefcase.so/briefcase.png
 tags:
 - Company
+- Accounting
+- Bookkeeping
+- Fintech
+- Artificial Intelligence
+- Automation
+- VAT Compliance
+- Agentic AI
+- SaaS
+- United Kingdom
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/briefcase-domain-security.yml
+- type: Website
+  url: https://briefcase.so/
+- type: Pricing
+  url: https://briefcase.so/pricing
+- type: Blog
+  url: https://briefcase.so/blog
+- type: ChangeLog
+  url: https://briefcase.so/changelog
+- type: Support
+  url: https://briefcase.so/help
+- type: SignUp
+  url: https://app.briefcase.so/
+- type: TermsOfService
+  url: https://briefcase.so/terms-of-service
+- type: PrivacyPolicy
+  url: https://briefcase.so/privacy-policy
+- type: LLMsTxt
+  url: llms/briefcase-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
