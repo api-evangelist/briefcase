@@ -1,0 +1,33 @@
+# Front Door AI Index — briefcase — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: briefcase
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: briefcase.so
+  final_host: briefcase.so
+  ownership: own
+  owner: briefcase
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 26
+  host_score: 26
+  density: 4.11
+  words: 6330
+  tiers:
+    agentic: 3
+    core: 21
+    model: 2
+  ambiguous: 12
+  top_terms:
+    AI: 20
+    automation: 5
+    smart: 5
+    AI agent: 2
+    agent: 2
+    Anthropic: 1
+    LLMs: 1
+    OpenAI: 1
+    llms.txt: 1
