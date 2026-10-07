@@ -1,0 +1,75 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://briefcase.so/pricing
+sources:
+- https://briefcase.so/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Quarterly volume allowances; unlimited users; 14-day free trial. MCP access mentioned but not separately
+  priced.
+plan_count: 7
+currency: GBP
+plans:
+- name: Low
+  price_text: £19 a month + VAT
+  price: 19
+  currency: GBP
+  period: month
+  included_quota: Invoices and receipts 75 a quarter; Bank transactions Ledger 300 a quarter; Supplier
+    payments 3 a quarter
+  overage: then 50p each (supplier payments)
+- name: Medium
+  price_text: £39 a month + VAT
+  price: 39
+  currency: GBP
+  period: month
+  included_quota: Invoices and receipts 250 a quarter; Bank transactions Ledger 1,000 a quarter; Supplier
+    payments 3 a quarter
+  overage: then 50p each (supplier payments)
+- name: High
+  price_text: £79 a month + VAT
+  price: 79
+  currency: GBP
+  period: month
+  included_quota: Invoices and receipts 750 a quarter; Bank transactions Ledger 3,000 a quarter; Supplier
+    payments 3 a quarter
+  overage: then 50p each (supplier payments)
+- name: Ultra
+  price_text: £119 a month + VAT
+  price: 119
+  currency: GBP
+  period: month
+  included_quota: 1,500 invoices · 6,000 transactions
+  overage: then 50p each (supplier payments)
+- name: Ultra ×2
+  price_text: £229
+  price: 229
+  currency: GBP
+  period: month
+  included_quota: 3,000 invoices · 12,000 transactions
+- name: Ultra ×4
+  price_text: £449
+  price: 449
+  currency: GBP
+  period: month
+  included_quota: 6,000 invoices · 24,000 transactions
+- name: Ultra ×8
+  price_text: £879
+  price: 879
+  currency: GBP
+  period: month
+  included_quota: 12,000 invoices · 48,000 transactions
+rate_limit_statements:
+- If you go more than 10% over either limit in a quarter, we move you to the next plan and let you know.
+- If it is off and you reach a limit, billable actions such as publishing invoices and reconciling bank
+  transactions pause until the next quarter starts
