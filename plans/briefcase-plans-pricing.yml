@@ -73,3 +73,60 @@ rate_limit_statements:
 - If you go more than 10% over either limit in a quarter, we move you to the next plan and let you know.
 - If it is off and you reach a limit, billable actions such as publishing invoices and reconciling bank
   transactions pause until the next quarter starts
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - hybrid
+  - subscription
+  units: []
+  plans:
+  - name: Low
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Medium
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: High
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Ultra
+    access: other
+    model: hybrid
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Ultra ×2
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Ultra ×4
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods:
+    - month
+  - name: Ultra ×8
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods:
+    - month
